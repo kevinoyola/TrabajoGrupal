@@ -85,5 +85,5 @@ ALTER TABLE usuarios_aplicacion
 DROP COLUMN telefono_contacto;
 -- El ejercicio debe ser subido a github y al Nodo Virtual.
 
-
+-- https://github.com/kevinoyola/TrabajoGrupal.git
   
